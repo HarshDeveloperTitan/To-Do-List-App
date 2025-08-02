@@ -9,6 +9,6 @@ A lightweight, responsive **To-Do List** application built using **HTML**, **CSS
 -  Clear all tasks option *(optional)*
 -  Fully responsive for mobile & desktop
 -  ## Technologies Used
--  - **HTML5** — Semantic structure
+- **HTML5** — Semantic structure
 - **CSS3** — Clean, modern styling
 - **JavaScript (ES6)** — Interactivity and logic
